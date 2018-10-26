@@ -3,7 +3,7 @@
 This is a demonstration of Genetic Algorithm at it's basic level.
 Run GApasswordwithclass.py.
 
-Edit the line below to apply your own sentence, population size and convergence.
+Edit the lines below to apply your own sentence, population size and convergence.
 
 ```
 x = GA("alex bhattarai 073bex402 pulchowk campus",500)
